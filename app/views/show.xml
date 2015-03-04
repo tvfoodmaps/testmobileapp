@@ -1,5 +1,5 @@
 <Alloy>
 	<Window id="showwin" class="container">
-		<Label id="label" >Show page</Label>
+		<Label id="label" >Show pages</Label>
 	</Window>
 </Alloy>
