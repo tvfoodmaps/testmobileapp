@@ -1,0 +1,49 @@
+
+
+"#placewin" : {
+  	layout:'vertical',
+	backgroundColor: '#fff',
+	fullscreen: false,
+	navBarHidden: true,
+	top:Alloy.Globals.top,
+	exitOnClose: false	
+}
+
+".container": {
+	backgroundColor:"white"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#latlng": {
+	font: {
+		fontSize: 12
+	}
+}
+"#magheading": {
+	font: {
+		fontSize: 15
+	}
+}
+
+"#direction": {
+	font: {
+		fontSize: 22
+	}
+}
+
+"#heading": {
+	font: {
+		fontSize: 12
+	}
+}
+
+"#label": {
+	font: {
+		fontSize: 12
+	}
+}

@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="placewin" class="container">
+		<View layout="vertical">
+		<Label id="label" >Place page</Label>
+		<Label id="latlng">Test</Label>
+		<Label id="heading">heading</Label>
+		<Label id="magheading">heading</Label>
+		<Label id="direction">dir</Label>
+		</View>
+	</Window>
+</Alloy>
